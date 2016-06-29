@@ -19,4 +19,5 @@
        * Boolean
        * Array
        * Object
+       * null
 
