@@ -4,6 +4,9 @@
    * [Books](books.md)
    * [Tools](tools.md)
    * References
+
+---
+
 * What is Javascript?
    * Brief History
    * Some Examples
@@ -12,6 +15,9 @@
    * Including Your Scripts
    * Your First Script
    * Syntax
+
+---
+
 * The Fundamentals
    * Expressions
    * Operators
