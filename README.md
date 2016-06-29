@@ -6,4 +6,4 @@ For the modern web developer, Javascript is a core-competency. It's also a great
 
 In this class we will provide you with some of the basics of programming by using JavaScript to manipulate the HTML elements on a web-page. We'll discuss the DOM and we'll delve into the bowels of the browser to debug our scripts. We'll learn how jQuery can bring some sanity to our lives by providing a clean API for common tasks. 
 
-This course is targeted at beginners and will cover variables, functions, control-flow, conditionals, loops, arrays, objects and more. 
+This course is targeted at beginners and will cover variables, functions, control-flow statements, conditionals, loops, arrays, objects and more. 
