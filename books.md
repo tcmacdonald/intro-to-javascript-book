@@ -10,6 +10,7 @@ For many years, the available documentation and reference material on JS was not
 
 
 #### [JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
+![](images/the-good-parts.jpg)
 
 **Author:** Douglas Crockford  
 **ISBN-13:** 063-6920517740  
@@ -17,6 +18,8 @@ For many years, the available documentation and reference material on JS was not
 
 
 #### [JavaScript and JQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_1)
+![](images/javascript-jquery.jpg)
+
 **Author:** Jon Duckett  
 **ISBN-13:** 978-1118531648  
 **ISBN-10:** 1118531647
