@@ -14,7 +14,6 @@
    * Syntax
 * Expressions
    * Operators
-* Conditionals
 * Variables
    * Data Types
        * Number
@@ -25,4 +24,5 @@
        * undefined
        * null
    * Naming Rules
+* Conditionals
 
