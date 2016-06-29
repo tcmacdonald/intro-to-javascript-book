@@ -13,16 +13,16 @@
    * Your First Script
    * Syntax
 * Expressions
+   * Variables
+       * Data Types
+           * Number
+           * String
+           * Boolean
+           * Array
+           * Object
+           * undefined
+           * null
+       * Naming Rules
+   * Conditionals
    * Operators
-* Variables
-   * Data Types
-       * Number
-       * String
-       * Boolean
-       * Array
-       * Object
-       * undefined
-       * null
-   * Naming Rules
-* Conditionals
 
