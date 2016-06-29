@@ -13,6 +13,7 @@
    * Your First Script
    * Syntax
 * Expressions
+   * Operators
    * Variables
        * Data Types
            * Number
@@ -24,5 +25,4 @@
            * null
        * Naming Rules
    * Conditionals
-   * Operators
 
