@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
    * [Books](books.md)
-   * Tools
+   * [Tools](tools.md)
 * [References](chapter1.md)
 
