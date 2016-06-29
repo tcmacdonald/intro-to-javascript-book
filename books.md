@@ -1,7 +1,7 @@
 # Books
 For many years, the available documentation and reference material on JS was not great. The following three texts are considered the best of what's out there.
 
-<img src="images/definitive-guide.jpg" align="right">
+<img src="images/definitive-guide.jpg" style="float: right">
 
 #### [JavaScript: The Definitive Guide](https://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527)
 **Author:** David Flanagan  
