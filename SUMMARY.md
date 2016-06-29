@@ -20,4 +20,5 @@
        * Array
        * Object
        * null
+       * undefined
 
