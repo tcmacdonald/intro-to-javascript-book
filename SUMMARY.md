@@ -14,4 +14,5 @@
    * Syntax
 * Variables
    * Data Types
+       * Number
 
