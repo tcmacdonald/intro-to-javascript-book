@@ -16,4 +16,5 @@
    * Data Types
        * Number
        * String
+       * Boolean
 
