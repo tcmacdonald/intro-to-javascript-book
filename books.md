@@ -1,4 +1,6 @@
 # Books
+For many years, the available documentation and reference material on JS was not great. The following three texts are considered the best of what's out there.
+
 #### [JavaScript: The Definitive Guide](https://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527)
 **Author:** David Flanagan  
 **ISBN-13:** 978-0596805524  
