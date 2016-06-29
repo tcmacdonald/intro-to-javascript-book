@@ -13,4 +13,5 @@
    * Your First Script
    * Syntax
 * Variables
+   * Data Types
 
