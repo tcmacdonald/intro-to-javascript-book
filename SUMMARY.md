@@ -12,7 +12,7 @@
    * Including Your Scripts
    * Your First Script
    * Syntax
-* Expressions
+* The Fundamentals
    * Operators
    * Variables
        * Data Types
