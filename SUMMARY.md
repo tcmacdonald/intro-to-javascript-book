@@ -12,6 +12,8 @@
    * Including Your Scripts
    * Your First Script
    * Syntax
+* Expressions
+   * Operators
 * Variables
    * Data Types
        * Number
@@ -22,7 +24,5 @@
        * undefined
        * null
    * Naming Rules
-* Expressions
-   * Operators
 * Conditionals
 
