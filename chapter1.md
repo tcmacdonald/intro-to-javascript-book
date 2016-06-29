@@ -1,6 +1,5 @@
 # Recommended Books
 
-
 #### [JavaScript: The Definitive Guide](https://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527)
 **Author:** David Flanagan  
 **ISBN-13:** 978-0596805524  
