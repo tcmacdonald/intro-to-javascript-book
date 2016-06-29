@@ -15,4 +15,5 @@
 * Variables
    * Data Types
        * Number
+       * String
 
