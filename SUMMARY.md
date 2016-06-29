@@ -12,9 +12,9 @@
    * Including Your Scripts
    * Your First Script
    * Syntax
-* Conditionals
 * Expressions
    * Operators
+* Conditionals
 * Variables
    * Data Types
        * Number
