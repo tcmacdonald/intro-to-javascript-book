@@ -17,4 +17,5 @@
        * Number
        * String
        * Boolean
+       * Array
 
