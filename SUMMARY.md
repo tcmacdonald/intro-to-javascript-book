@@ -10,4 +10,5 @@
 * Getting Started
    * Vocabulary
    * Including Your Scripts
+   * Hello World
 
