@@ -10,6 +10,9 @@
 * What is Javascript?
    * Brief History
    * Some Examples
+
+---
+
 * Getting Started
    * Vocabulary
    * Including Your Scripts
