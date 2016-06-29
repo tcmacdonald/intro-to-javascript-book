@@ -11,5 +11,5 @@
    * Vocabulary
    * Including Your Scripts
    * Your First Script
-   * General Syntax Rules
+   * Syntax
 
