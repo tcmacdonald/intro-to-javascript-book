@@ -12,4 +12,5 @@
    * Including Your Scripts
    * Your First Script
    * Syntax
+* Variables
 
