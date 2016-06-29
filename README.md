@@ -1,5 +1,7 @@
 # Introduction
 
+![](images/js.jpg)
+
 JavaScript (JS) is the programming language that makes web pages interactive. These days, it's used to make web-servers and powers some of the most popular websites on the internet. Once regarded as a silly scripting tool, this mysterious little language has evolved into one of the most influential online technologies in use today. 
 
 For the modern web developer, Javascript is a core-competency. It's also a great first language if you're just getting started in web development. 
